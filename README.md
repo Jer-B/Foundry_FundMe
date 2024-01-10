@@ -216,7 +216,7 @@ forge test --match-test testFunctionName
 or
 
 ```
-forge test --fork-url $SEPOLIA_RPC_URL
+forge test --fork-url $alchemy_RPC_sepolia
 ```
 
 ### テストカバレッジ
