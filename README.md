@@ -71,7 +71,7 @@ Don't forget to change the `testFunctionName` above for the actual test function
 or
 
 ```
-forge test --fork-url $SEPOLIA_RPC_URL
+forge test --fork-url $alchemy_RPC_sepolia
 ```
 
 ### Test Coverage
